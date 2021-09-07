@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on a great web development team
 - 📫 How to reach me (email: argyriskantas@gmail.com or on facebook: Argyris Kantaras )
 
-<!---
-Argyris-Kantaras/Argyris-Kantaras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am a junior web developer. Currently I'm learning react and also practising! I already learn JavaScript, CSS, HTML but still in this job field, learning is never enough. My goal is to be able to create interactive and beautiful web apps but also I would like to learn more about back-end programming as well!

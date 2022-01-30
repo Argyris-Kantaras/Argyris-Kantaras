@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Argyris-Kantaras
-- 👀 I’m interested in Web development and Web design
+- 👀 I’m a Web developer with a passion for all things in web 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on a great web development team
 - 📫 How to reach me (email: argyriskantas@gmail.com or on facebook: Argyris Kantaras )
